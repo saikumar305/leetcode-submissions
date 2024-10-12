@@ -4,7 +4,7 @@ class Solution:
         for i in nums:
             if i in numMap:
                 return True
-            else: numMap[i] = True
+            else: numMap[i] = 1
         return False
 
         
