@@ -1,18 +1,21 @@
 class Solution:
-    def isHappy(self, n: int) -> bool:
-        sum_set = set()
-        def sumofnumbers(n):
-            add = 0
-            if n<=3:
-                return n
-            for i in str(n):
-                add += (int(i) **2)
-            if add in sum_set:
-                return 0
-            else:
-                sum_set.add(add)
-            return sumofnumbers(add)
+    def getNext(self,num):
+            sum = 0
+            while num>0:
+                digit = num%10
+                sum+= digit**2
+                num//=10
+            return sum
 
-        return True if sumofnumbers(n)==1 else False
+    def isHappy(self, n: int) -> bool:
+
+        slow = n
+        fast = self.getNext(n)
+
+        while(fast !=1 and slow != fast):
+            slow = self.getNext(slow)
+            fast = self.getNext(self.getNext(fast))
+
+        return fast == 1
             
         
