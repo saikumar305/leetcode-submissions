@@ -10,15 +10,22 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        if not root:
-            return True
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
+        def helper(node):
+            if not node:
+                return (0, True)
 
-        return abs(left-right) <=1 and self.isBalanced(root.left) and self.isBalanced(root.right)
-        
-    def maxDepth(self,root):
-        if not root:
-            return 0
-        return 1+max(self.maxDepth(root.left), self.maxDepth(root.right))
-        
+            left_height, left_balanced = helper(node.left)
+            right_height, right_balanced = helper(node.right)
+
+            current_balanced = (
+                left_balanced
+                and right_balanced
+                and abs(left_height - right_height) <= 1
+            )
+
+            current_height = max(left_height, right_height) + 1
+
+            return (current_height, current_balanced)
+
+        _, is_balanced = helper(root)
+        return is_balanced
