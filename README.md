@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
