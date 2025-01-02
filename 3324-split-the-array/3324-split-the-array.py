@@ -3,10 +3,13 @@ class Solution:
         numsMap = {}
 
         for i in nums:
-            numsMap[i] = numsMap.get(i,0) +1
-        
-        for k, v in numsMap.items():
-            if v > 2:
+            
+            if i in numsMap and numsMap[i] >= 2:
                 return False
+            
+            numsMap[i] = numsMap.get(i,0) +1
+            print(i, "->" ,numsMap[i])
+
+        print(numsMap)
 
         return True
