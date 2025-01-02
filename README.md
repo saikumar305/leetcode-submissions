@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
+| [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
+| [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
