@@ -8,8 +8,5 @@ class Solution:
                 return False
             
             numsMap[i] = numsMap.get(i,0) +1
-            print(i, "->" ,numsMap[i])
-
-        print(numsMap)
 
         return True
