@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
 | [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/saikumar305/leetcode-submissions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/saikumar305/leetcode-submissions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
