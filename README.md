@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
@@ -194,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
