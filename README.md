@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saikumar305/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saikumar305/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saikumar305/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
