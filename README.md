@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
