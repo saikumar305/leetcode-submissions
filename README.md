@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/saikumar305/leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saikumar305/leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/saikumar305/leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0263-ugly-number) |
