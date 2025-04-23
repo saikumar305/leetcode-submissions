@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0665-non-decreasing-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/saikumar305/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
