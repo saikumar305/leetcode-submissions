@@ -20,8 +20,7 @@ class Solution:
                         return False
                 else:
                     return False
-                print(i)
-        print(stack)
+                    
         return len(stack) == 0
 
         
