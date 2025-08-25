@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/2350-find-closest-number-to-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
