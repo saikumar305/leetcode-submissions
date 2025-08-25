@@ -12,10 +12,7 @@ class Solution:
         max2 = max(stones)
         stones.remove(max2)
 
-        print(stones)
-
         if max1 - max2:
-            print(max1 , max2)
             stones.append(max1-max2)
         
         return self.lastStoneWeight(stones)
