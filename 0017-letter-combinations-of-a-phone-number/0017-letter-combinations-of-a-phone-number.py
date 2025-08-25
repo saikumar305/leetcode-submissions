@@ -14,17 +14,33 @@ class Solution:
             "8": ["t", "u", "v"],
             "9": ["w", "x", "y", "z"]
         }
-        result = [""]
+        # result = [""]
 
-        for d in digits:
-            new_result = []
-            letters = keypad_mapping[d]
+        # for d in digits:
+        #     new_result = []
+        #     letters = keypad_mapping[d]
             
-            for c in result:
-                for l in letters:
-                    new_result.append(c + l)
+        #     for c in result:
+        #         for l in letters:
+        #             new_result.append(c + l)
 
-            result = new_result
+        #     result = new_result
+
+        # return result
+        result = []
+        def backtrack(i, path):
+
+            if i == len(digits):
+                result.append(''.join(path))
+                return
+
+            letters = keypad_mapping[digits[i]]
+            for l in letters:
+                path.append(l)
+                backtrack(i+1, path)
+                path.pop()
+            
+        backtrack(0, [])
 
         return result
 
