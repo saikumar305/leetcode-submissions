@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
 |  |
@@ -290,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
