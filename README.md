@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
 | [3371-harshad-number](https://github.com/saikumar305/leetcode-submissions/tree/master/3371-harshad-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikumar305/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
