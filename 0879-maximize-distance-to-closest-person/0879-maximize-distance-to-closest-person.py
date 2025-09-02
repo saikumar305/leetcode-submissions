@@ -5,9 +5,7 @@ class Solution:
         for i in range(len(seats)):
             if seats[i]==1:
                 oc_i.append(i)
-
-        print(oc_i)
-
+                
         mid_diff = 0
         start = oc_i[0]
         end = len(seats) - oc_i[-1] -1
