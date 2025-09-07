@@ -10,15 +10,16 @@ class Solution:
     def preorder(self, root: 'Node') -> List[int]:
         op = []
 
-        self.dfs(root, op)
+        def dfs(root):
+            if root is None:
+                return
+            
+            op.append(root.val)
+            for child in root.children:
+                dfs(child)
 
+        dfs(root)
         return op
 
-    def dfs(self, root, op):
-        if root is None:
-            return
-        
-        op.append(root.val)
-        for child in root.children:
-            self.dfs(child, op)
+    
         
