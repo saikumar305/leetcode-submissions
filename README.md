@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
+## Graph
+|  |
+| ------- |
+| [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 <!---LeetCode Topics End-->
