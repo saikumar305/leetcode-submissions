@@ -11,21 +11,12 @@ class Solution:
 
         if not root:return []
 
+        q = [root]
         op = []
 
-        q = deque([root])
-
-        while q:
-            level = []
-
-            for _ in range(len(q)):
-                node = q.popleft()
-
-                level += [node.val]
-
-                for n in node.children: q.append(n)
-
-            op += [level]
+        while any(q):
+            op.append([node.val for node in q])
+            q = [child for node in q for child in node.children if child]
 
         return op
 
