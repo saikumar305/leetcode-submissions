@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
