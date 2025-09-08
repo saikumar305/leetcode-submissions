@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0482-license-key-formatting](https://github.com/saikumar305/leetcode-submissions/tree/master/0482-license-key-formatting) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
