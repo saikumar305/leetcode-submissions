@@ -11,12 +11,13 @@ class Solution:
 
         def inorder(node):
             if not node:
-                return
+                return 0
             
-            inorder(node.left)
+            
             if node.val >= low and node.val <= high:
                 self.sum += node.val
-            inorder(node.right)
+            
+            return inorder(node.left) + inorder(node.right)
         
 
         inorder(root)
