@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/saikumar305/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Rolling Hash
 |  |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Matrix
 |  |
 | ------- |
