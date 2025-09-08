@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/saikumar305/leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/saikumar305/leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/saikumar305/leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
