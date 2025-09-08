@@ -20,7 +20,6 @@ class Solution:
         
 
         inorder(root)
-        print(ans)
 
         return self.sum
         
