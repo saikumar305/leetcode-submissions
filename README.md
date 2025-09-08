@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/saikumar305/leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/1005-univalued-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/saikumar305/leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/1005-univalued-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/saikumar305/leetcode-submissions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/saikumar305/leetcode-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/1005-univalued-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Rolling Hash
 |  |
