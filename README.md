@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikumar305/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
 |  |
 | ------- |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saikumar305/leetcode-submissions/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
