@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saikumar305/leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
+| [0171-excel-sheet-column-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/saikumar305/leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
