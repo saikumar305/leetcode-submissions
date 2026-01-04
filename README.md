@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/saikumar305/leetcode-submissions/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/saikumar305/leetcode-submissions/tree/master/2427-number-of-common-factors) |
 | [3371-harshad-number](https://github.com/saikumar305/leetcode-submissions/tree/master/3371-harshad-number) |
 ## Trie
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
+| [2427-number-of-common-factors](https://github.com/saikumar305/leetcode-submissions/tree/master/2427-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/saikumar305/leetcode-submissions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
