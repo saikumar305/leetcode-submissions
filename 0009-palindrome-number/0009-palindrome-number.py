@@ -1,15 +1,18 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        # if x < 0:
-        #     return False
-        # reversed = 0
-        # temp = x
-        # while temp>0:
-        #     reversed = reversed*10 + temp%10
-        #     temp = temp//10
 
-        # return x == reversed
-        return str(x) == str(x)[::-1]
-
+        ans = 0
+        ip = x
+        if x < 0:
+            return False
         
+        while x:
+            ans = (ans * 10) + (x % 10)
+            if not -2**31 <= ans <= 2**31 - 1:
+                return False
+            x //= 10
+
+        ans = int(ans)
+
+        return ip == ans
         
