@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/2050-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/saikumar305/leetcode-submissions/tree/master/2235-add-two-integers) |
 | [3371-harshad-number](https://github.com/saikumar305/leetcode-submissions/tree/master/3371-harshad-number) |
 ## Trie
 |  |
