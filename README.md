@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/saikumar305/leetcode-submissions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/saikumar305/leetcode-submissions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/saikumar305/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saikumar305/leetcode-submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/saikumar305/leetcode-submissions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/saikumar305/leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0202-happy-number) |
