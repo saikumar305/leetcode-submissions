@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/saikumar305/leetcode-submissions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/saikumar305/leetcode-submissions/tree/master/1154-day-of-the-year) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/saikumar305/leetcode-submissions/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saikumar305/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saikumar305/leetcode-submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
