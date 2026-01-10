@@ -1,13 +1,13 @@
 class Solution:
     def dayOfYear(self, date: str) -> int:
+        year , month , day = map(int, date.split('-'))
 
-        days_in_month = [0, 31, 28 , 31, 30, 31, 30, 31, 31, 30, 31, 30 , 31]
+        days_in_month = [31, 28 , 31, 30, 31, 30, 31, 31, 30, 31, 30 , 31]
 
-        month = int(date.split('-')[1])
+        if self.isLeapYear(year):
+            days_in_month[1] = 29
 
-        days = sum(days_in_month[:month]) + int(date.split('-')[2]) +  (1 if (self.isLeapYear(int(date.split('-')[0]))) and month>2 else 0)
-
-        return days
+        return sum(days_in_month[:month-1]) + day
 
     
     def isLeapYear(self, year):
