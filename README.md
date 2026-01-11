@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0454-4sum-ii) |
+| [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/saikumar305/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/saikumar305/leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saikumar305/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
+| [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/saikumar305/leetcode-submissions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saikumar305/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1486-xor-operation-in-an-array) |
