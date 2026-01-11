@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saikumar305/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0507-perfect-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/2050-count-good-numbers) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/saikumar305/leetcode-submissions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
