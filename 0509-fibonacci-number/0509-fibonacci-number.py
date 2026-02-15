@@ -1,7 +1,5 @@
 class Solution:
     def fib(self, n: int) -> int:
-        dp = {}
-
         if n <= 1:
             return n
 
