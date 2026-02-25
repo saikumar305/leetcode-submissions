@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1603-running-sum-of-1d-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/saikumar305/leetcode-submissions/tree/master/1791-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar305/leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/2350-find-closest-number-to-zero) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1492-the-kth-factor-of-n) |
 | [1585-the-kth-factor-of-n](https://github.com/saikumar305/leetcode-submissions/tree/master/1585-the-kth-factor-of-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saikumar305/leetcode-submissions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/saikumar305/leetcode-submissions/tree/master/2235-add-two-integers) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saikumar305/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -484,9 +488,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/saikumar305/leetcode-submissions/tree/master/2427-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saikumar305/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
