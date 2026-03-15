@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saikumar305/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1310-xor-queries-of-a-subarray](https://github.com/saikumar305/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1603-running-sum-of-1d-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/saikumar305/leetcode-submissions/tree/master/1791-richest-customer-wealth) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
 | [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar305/leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/saikumar305/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/saikumar305/leetcode-submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar305/leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
