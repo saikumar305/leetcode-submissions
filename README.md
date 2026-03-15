@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saikumar305/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saikumar305/leetcode-submissions/tree/master/0016-3sum-closest) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikumar305/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/saikumar305/leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saikumar305/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
 ## Linked List
