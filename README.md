@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [0879-maximize-distance-to-closest-person](https://github.com/saikumar305/leetcode-submissions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saikumar305/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
