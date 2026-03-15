@@ -529,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
