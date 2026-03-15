@@ -5,7 +5,6 @@ class Solution:
         left = 0
 
         for right in range(len(nums)):
-            print(curr_sum, right)
             curr_sum += nums[right]
             while curr_sum >= target:
                 min_len = min(min_len, right-left +1)
