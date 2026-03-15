@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saikumar305/leetcode-submissions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0454-4sum-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/saikumar305/leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/saikumar305/leetcode-submissions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/saikumar305/leetcode-submissions/tree/master/0482-license-key-formatting) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/saikumar305/leetcode-submissions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
