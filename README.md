@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/saikumar305/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saikumar305/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/saikumar305/leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/saikumar305/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/saikumar305/leetcode-submissions/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/saikumar305/leetcode-submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
