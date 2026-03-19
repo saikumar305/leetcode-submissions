@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/saikumar305/leetcode-submissions/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/saikumar305/leetcode-submissions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0796-rotate-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
