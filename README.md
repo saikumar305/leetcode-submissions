@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar305/leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/2350-find-closest-number-to-zero) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3194-find-words-containing-character](https://github.com/saikumar305/leetcode-submissions/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Memoization
 |  |
 | ------- |
