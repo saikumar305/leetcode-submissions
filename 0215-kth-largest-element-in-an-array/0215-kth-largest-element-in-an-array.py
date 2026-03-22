@@ -18,9 +18,7 @@ class Solution:
             if len(heap) < k:
                 heapq.heappush(heap, i)
             else:
-                heapq.heappush(heap,i)
-                heapq.heappop(heap)
-                
+                heapq.heappushpop(heap,i)
 
         return heapq.heappop(heap)
         
