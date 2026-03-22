@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [0879-maximize-distance-to-closest-person](https://github.com/saikumar305/leetcode-submissions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/saikumar305/leetcode-submissions/tree/master/1154-day-of-the-year) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
@@ -233,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
@@ -559,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saikumar305/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Combinatorics
 |  |
