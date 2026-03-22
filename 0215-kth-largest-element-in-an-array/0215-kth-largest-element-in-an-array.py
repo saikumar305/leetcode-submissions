@@ -8,7 +8,6 @@ class Solution:
 
         for i in range(k):
             largest = -heapq.heappop(heap)
-            print(largest)
 
 
         return largest
