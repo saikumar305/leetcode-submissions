@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/saikumar305/leetcode-submissions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0454-4sum-ii) |
 | [0477-total-hamming-distance](https://github.com/saikumar305/leetcode-submissions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/saikumar305/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
