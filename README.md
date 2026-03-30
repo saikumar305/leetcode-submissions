@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/saikumar305/leetcode-submissions/tree/master/1154-day-of-the-year) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/saikumar305/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3324-split-the-array](https://github.com/saikumar305/leetcode-submissions/tree/master/3324-split-the-array) |
 ## Quickselect
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saikumar305/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
