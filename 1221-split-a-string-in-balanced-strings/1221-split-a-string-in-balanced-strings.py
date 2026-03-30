@@ -6,7 +6,7 @@ class Solution:
         for i in s:
             if i == 'R':
                 b-=1
-            if i == 'L':
+            else:
                 b+=1
             if b == 0:
                 op +=1
