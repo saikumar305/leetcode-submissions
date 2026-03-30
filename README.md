@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/saikumar305/leetcode-submissions/tree/master/1051-height-checker) |
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/saikumar305/leetcode-submissions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/saikumar305/leetcode-submissions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/saikumar305/leetcode-submissions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Merge Sort
 |  |
