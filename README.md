@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2350-find-closest-number-to-zero](https://github.com/saikumar305/leetcode-submissions/tree/master/2350-find-closest-number-to-zero) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/saikumar305/leetcode-submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3194-find-words-containing-character](https://github.com/saikumar305/leetcode-submissions/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar305/leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/saikumar305/leetcode-submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikumar305/leetcode-submissions/tree/master/1127-last-stone-weight) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/saikumar305/leetcode-submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/saikumar305/leetcode-submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/saikumar305/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Memoization
 |  |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saikumar305/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saikumar305/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/saikumar305/leetcode-submissions/tree/master/1791-richest-customer-wealth) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/saikumar305/leetcode-submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Interactive
 |  |
 | ------- |
