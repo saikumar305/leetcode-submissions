@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/saikumar305/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/saikumar305/leetcode-submissions/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/saikumar305/leetcode-submissions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/saikumar305/leetcode-submissions/tree/master/1089-duplicate-zeros) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
+| [1002-find-common-characters](https://github.com/saikumar305/leetcode-submissions/tree/master/1002-find-common-characters) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
+| [1002-find-common-characters](https://github.com/saikumar305/leetcode-submissions/tree/master/1002-find-common-characters) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/saikumar305/leetcode-submissions/tree/master/1154-day-of-the-year) |
