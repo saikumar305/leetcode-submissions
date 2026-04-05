@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/saikumar305/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/saikumar305/leetcode-submissions/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/saikumar305/leetcode-submissions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0796-rotate-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0796-rotate-string) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/saikumar305/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
