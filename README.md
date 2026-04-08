@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [1002-find-common-characters](https://github.com/saikumar305/leetcode-submissions/tree/master/1002-find-common-characters) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/saikumar305/leetcode-submissions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/saikumar305/leetcode-submissions/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/saikumar305/leetcode-submissions/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/saikumar305/leetcode-submissions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saikumar305/leetcode-submissions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/1005-univalued-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/saikumar305/leetcode-submissions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Rolling Hash
 |  |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/saikumar305/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [1079-letter-tile-possibilities](https://github.com/saikumar305/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
