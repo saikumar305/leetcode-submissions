@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saikumar305/leetcode-submissions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
+| [2027-minimum-moves-to-convert-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2487-optimal-partition-of-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2487-optimal-partition-of-string) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/saikumar305/leetcode-submissions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2027-minimum-moves-to-convert-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/saikumar305/leetcode-submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
