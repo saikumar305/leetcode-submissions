@@ -1,11 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
+        mapper = {}
 
         for i in range(len(nums)):
-            if target-nums[i] in seen:
-                return [i, seen[target-nums[i]]]
-            else:
-                seen[nums[i]] = i
+            if target - nums[i] in mapper:
+                return [i, mapper[target-nums[i]]]
 
+            mapper[nums[i]] = i
         
