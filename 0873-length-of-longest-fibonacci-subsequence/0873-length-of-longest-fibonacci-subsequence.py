@@ -6,17 +6,15 @@ class Solution:
 
         for i in range(n):
             for j in range(i+1, n):
-                prev = arr[j]
-                curr = arr[i] + prev
+                prev = arr[i]
+                curr = arr[j]
                 curr_len = 2
 
-                while curr in num_set:
-                    prev , curr = curr , curr+prev
-                    curr_len +=1
+                while prev + curr in num_set:
+                    prev, curr = curr, prev + curr
+                    curr_len += 1
+
+                if curr_len > 2:
                     max_len = max(max_len, curr_len)
 
         return max_len
-
-            
-
-        
