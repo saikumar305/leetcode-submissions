@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/saikumar305/leetcode-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saikumar305/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/saikumar305/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/saikumar305/leetcode-submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/saikumar305/leetcode-submissions/tree/master/0172-factorial-trailing-zeroes) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/saikumar305/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/saikumar305/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikumar305/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saikumar305/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/saikumar305/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Graph
