@@ -11,7 +11,7 @@ class Solution:
 
         max_str = s[0]
 
-        for i in range(len(s)-1):
+        for i in range(len(s)):
             odd = expand_from_center(i, i)
             even = expand_from_center(i, i+1)
             max_str = max((max_str, odd, even), key=len)
