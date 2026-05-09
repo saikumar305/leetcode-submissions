@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/saikumar305/leetcode-submissions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saikumar305/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/saikumar305/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumar305/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/saikumar305/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saikumar305/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saikumar305/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumar305/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saikumar305/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0414-third-maximum-number) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/saikumar305/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/saikumar305/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/saikumar305/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/saikumar305/leetcode-submissions/tree/master/0476-number-complement) |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saikumar305/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saikumar305/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/saikumar305/leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saikumar305/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/saikumar305/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
