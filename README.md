@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0706-design-hashmap](https://github.com/saikumar305/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0792-binary-search](https://github.com/saikumar305/leetcode-submissions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saikumar305/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/saikumar305/leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/saikumar305/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/saikumar305/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/saikumar305/leetcode-submissions/tree/master/0837-most-common-word) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/saikumar305/leetcode-submissions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/saikumar305/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/saikumar305/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/saikumar305/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/saikumar305/leetcode-submissions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/saikumar305/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/saikumar305/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/saikumar305/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/saikumar305/leetcode-submissions/tree/master/0816-design-hashset) |
 ## Sliding Window
 |  |
