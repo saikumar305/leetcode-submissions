@@ -3,11 +3,12 @@ class Solution:
 
         mapper = {}
 
-        for i, num in enumerate(nums):
-            if target - num in mapper:
-                return [i, mapper[target-num]]
-            else:
-                mapper[num] = i
+        for i in range(len(nums)):
+            if target - nums[i] in mapper:
+                return [i, mapper[target-nums[i]]]
+            mapper[nums[i]] = i
+
+            
 
         
 
