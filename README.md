@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saikumar305/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saikumar305/leetcode-submissions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/saikumar305/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saikumar305/leetcode-submissions/tree/master/0141-linked-list-cycle) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saikumar305/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/saikumar305/leetcode-submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/saikumar305/leetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/saikumar305/leetcode-submissions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saikumar305/leetcode-submissions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -745,4 +748,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
