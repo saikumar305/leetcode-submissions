@@ -1,20 +1,19 @@
 class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
+    def longestCommonPrefix(self, strs: list[str]) -> str:
 
-        prefix = strs[0]
+        short = min(strs, key=len)
+        val = ""
 
-        # for chars in zip(*strs):
-        #     if len(set(chars)) == 1:
-        #         prefix += chars[0]
-        #     else:
-        #         break
-        # return prefix
+        for i in range(len(short)):
+            for j in strs:
+                if short[i] == j[i]:
+                    continue
 
-        for word in strs[1:]:
-            while not word.startswith(prefix):
-                prefix = prefix[:len(prefix) -1]
+                else:
+                    return val
+                    
+            val += short[i]
+        return val
 
-        return prefix
-                
-
+    
         
