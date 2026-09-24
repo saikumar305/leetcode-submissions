@@ -1,15 +1,15 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         mapper = {}
 
         for i in range(len(nums)):
             if target - nums[i] in mapper:
-                return [i, mapper[target-nums[i]]]
+                return [mapper[target-nums[i]], i]
+
             mapper[nums[i]] = i
 
-            
 
-        
+        return [-1, -1]
+
 
         
