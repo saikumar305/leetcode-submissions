@@ -9,13 +9,12 @@ class Solution:
         stack = []
 
         for i in s:
-            if i in mapper.values():
-                stack.append(i)
-            else: 
-                if stack and stack[-1] == mapper[i]:
-                    stack.pop()
-                else:
+            if i in mapper:
+                if not stack or stack[-1] != mapper[i]:
                     return False
-
-        return not bool(stack)
+                stack.pop()
+            else:
+                stack.append(i)
+                    
+        return not stack
         
