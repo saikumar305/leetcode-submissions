@@ -6,7 +6,7 @@ class Solution:
 
         i, j = 0 , len(needle)
 
-        while j <= len(haystack):
+        while j < len(haystack)+1:
 
             if haystack[i:j] == needle:
                 return i
