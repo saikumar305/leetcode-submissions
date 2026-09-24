@@ -1,20 +1,19 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
 
-        # ans = 0
-        # ip = x
-        # if x < 0:
-        #     return False
-        
-        # while x:
-        #     ans = (ans * 10) + (x % 10)
-        #     if not -2**31 <= ans <= 2**31 - 1:
-        #         return False
-        #     x //= 10
+        start , end = 0 , len(str(x))-1
 
-        # ans = int(ans)
+        str_x = str(x)
 
-        # return ip == ans
+        while start < end:
+            if str_x[start] == str_x[end]:
+                start +=1
+                end -= 1
+            
+            else:
+                return False
 
-        return str(x) == str(x)[::-1]
+        return True
         
