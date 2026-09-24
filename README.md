@@ -739,4 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/saikumar305/leetcode-submissions/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
