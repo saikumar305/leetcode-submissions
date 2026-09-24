@@ -1,5 +1,17 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
+        c = 0
 
-        return len(s.split()[-1])
+        i = len(s) -1
+        while s[i].isspace():
+            i-=1
+
+        while i >=0 and s[i].isalpha():
+            c+=1
+            i-=1
+
+        return c
+
+
+            
         
