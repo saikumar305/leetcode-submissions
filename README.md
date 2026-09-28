@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/saikumar305/leetcode-submissions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/saikumar305/leetcode-submissions/tree/master/1894-merge-strings-alternately) |
 | [2027-minimum-moves-to-convert-string](https://github.com/saikumar305/leetcode-submissions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saikumar305/leetcode-submissions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/saikumar305/leetcode-submissions/tree/master/0933-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/saikumar305/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/saikumar305/leetcode-submissions/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saikumar305/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm
 |  |
 | ------- |
