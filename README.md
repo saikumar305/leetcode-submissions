@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saikumar305/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/saikumar305/leetcode-submissions/tree/master/1791-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saikumar305/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1929-concatenation-of-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/saikumar305/leetcode-submissions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/saikumar305/leetcode-submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/saikumar305/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/saikumar305/leetcode-submissions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/saikumar305/leetcode-submissions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saikumar305/leetcode-submissions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/saikumar305/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/saikumar305/leetcode-submissions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saikumar305/leetcode-submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/saikumar305/leetcode-submissions/tree/master/2500-delete-greatest-value-in-each-row) |
