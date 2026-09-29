@@ -3,11 +3,10 @@ class Solution:
         op = []
 
         for i in range(n):
-            op.extend([nums[i], nums[n+i]])
+            op.append(nums[i])
+            op.append(nums[n+i])
 
         return op
-        
-
 
 
 
